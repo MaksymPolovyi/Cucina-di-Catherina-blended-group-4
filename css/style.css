@@ -1,0 +1,173 @@
+:root {
+  --color: #f3f3f3;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #f3f3f3;
+  font-size: 16px;
+}
+a:visited {
+  color: var(--color);
+}
+.list {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+/* HEADER */
+.header {
+  background: linear-gradient(
+    256.51deg,
+    rgba(111, 102, 102, 0.9) 26.96%,
+    rgba(16, 15, 15, 0.9) 79.08%,
+    rgba(16, 15, 15, 0.9) 79.08%
+  );
+}
+.header-nav {
+}
+.header-logo-img {
+}
+.header-logo-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.2;
+  color: var(--color);
+}
+.header-list {
+}
+.header-item {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.25;
+  color: var(--color);
+}
+.header-item-home {
+}
+.header-item-store {
+}
+.header-item-recipes {
+}
+.header-item-gallery {
+}
+.header-btn {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 1.25;
+  color: var(--color);
+  background-color: inherit;
+}
+
+/* HERO */
+.hero-section {
+  background: linear-gradient(
+    228.52deg,
+    rgba(111, 102, 102, 0.9) 4.71%,
+    rgba(16, 15, 15, 0.9) 39.77%,
+    rgba(16, 15, 15, 0.9) 44.21%
+  );
+}
+.hero-title {
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 1.22;
+}
+.hero-subtitle {
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 1.22;
+}
+.hero-subtitle-span {
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.22;
+  color: rgba(188, 26, 26, 0.71);
+}
+.hero-btn {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 1.23;
+  color: var(--color);
+  background: rgba(188, 26, 26, 0.2);
+}
+.hero-list-advantages {
+}
+.advantages-item {
+}
+.item-tastes {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+}
+.item-tastes-14 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.22;
+}
+.advantages-item-line {
+}
+.item-factories {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+}
+.item-factories-31 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.22;
+}
+.hero-composition-list {
+}
+.hero-composition-item {
+}
+.hero-composition-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
+.ellipse-big-tomato {
+}
+.ellipse-small-tomato {
+}
+.vector-tomato {
+}
+.ellipse-big-garlic {
+}
+.ellipse-small-garlic {
+}
+.vector-garlic {
+}
+.ellipse-big-wine {
+}
+.ellipse-small-wine {
+}
+.vector-wine {
+}
+.ellipse-big-basil {
+}
+.ellipse-small-basil {
+}
+.vector-basil {
+}
+.hero-ketchup-img {
+}
+.hero-social-links-list {
+}
+.hero-social-links-item {
+}
+.social-links-tumblr {
+}
+.social-links-instagram {
+}
+.social-links-youtube {
+}
+.social-links-twitter {
+}
